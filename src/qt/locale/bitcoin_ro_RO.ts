@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XeCoin</source>
-        <translation>Despre XeCoin</translation>
+        <source>About Xecoin</source>
+        <translation>Despre Xecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XeCoin&lt;/b&gt; version</source>
-        <translation>Versiune &lt;b&gt;XeCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Xecoin&lt;/b&gt; version</source>
+        <translation>Versiune &lt;b&gt;Xecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</source>
+Copyright © 2014 The Xecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</translation>
+Copyright © 2014 The Xecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your XeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Acestea sunt adresele XeCoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
+        <source>These are your Xecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Acestea sunt adresele Xecoin pentru a primi plăți. Poate doriți sa dați o adresa noua fiecarui expeditor pentru a putea ține evidența la cine efectuează plăti.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XeCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă XeCoin</translation>
+        <source>Sign a message to prove you own a Xecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Xecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified XeCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă XeCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Xecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Xecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-58"/>
-        <source>XeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>XeCoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
+        <source>Xecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Xecoin se va inchide pentru a termina procesul de encriptie. Amintiți-vă, criptarea portofelul dumneavoastră nu poate proteja pe deplin monedele dvs. de a fi furate de  infectarea cu malware a computerului.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about XeCoin</source>
-        <translation>Arată informații despre XeCoin</translation>
+        <source>Show information about Xecoin</source>
+        <translation>Arată informații despre Xecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a XeCoin address</source>
-        <translation>Trimite monede către o adresă XeCoin</translation>
+        <source>Send coins to a Xecoin address</source>
+        <translation>Trimite monede către o adresă Xecoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for XeCoin</source>
-        <translation>Modifică opțiuni de configurare pentru XeCoin</translation>
+        <source>Modify configuration options for Xecoin</source>
+        <translation>Modifică opțiuni de configurare pentru Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-202"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About XeCoin</source>
-        <translation>Despre XeCoin</translation>
+        <source>&amp;About Xecoin</source>
+        <translation>Despre Xecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>XeCoin client</source>
-        <translation>Clientul XeCoin</translation>
+        <source>Xecoin client</source>
+        <translation>Clientul Xecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to XeCoin network</source>
-        <translation><numerusform>%n conexiune activă la reteaua XeCoin</numerusform><numerusform>%n conexiuni active la reteaua XeCoin</numerusform><numerusform>%n conexiuni active la reteaua XeCoin</numerusform></translation>
+        <source>%n active connection(s) to Xecoin network</source>
+        <translation><numerusform>%n conexiune activă la reteaua Xecoin</numerusform><numerusform>%n conexiuni active la reteaua Xecoin</numerusform><numerusform>%n conexiuni active la reteaua Xecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
     </message>
     <message>
         <location line="-312"/>
-        <source>About XeCoin card</source>
-        <translation>Despre cardul XeCoin</translation>
+        <source>About Xecoin card</source>
+        <translation>Despre cardul Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about XeCoin card</source>
-        <translation>Arată informații despre card XeCoin</translation>
+        <source>Show information about Xecoin card</source>
+        <translation>Arată informații despre card Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid XeCoin address or malformed URI parameters.</source>
-        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa XeCoin invalidă sau parametrii URI malformați.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Xecoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi parsatt! Cauza poate fi o adresa Xecoin invalidă sau parametrii URI malformați.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,8 +729,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. XeCoin can no longer continue safely and will quit.</source>
-        <translation>A apărut o eroare fatală. XeCoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
+        <source>A fatal error occurred. Xecoin can no longer continue safely and will quit.</source>
+        <translation>A apărut o eroare fatală. Xecoin nu mai poate continua în condiții de siguranță și va iesi.</translation>
     </message>
 </context>
 <context>
@@ -1063,8 +1063,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XeCoin address.</source>
-        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă XeCoin validă</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Xecoin address.</source>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă Xecoin validă</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>XeCoin-Qt</source>
-        <translation>XeCoin-Qt</translation>
+        <source>Xecoin-Qt</source>
+        <translation>Xecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XeCoin after logging in to the system.</source>
-        <translation>Pornește XeCoin imdiat după logarea în sistem</translation>
+        <source>Automatically start Xecoin after logging in to the system.</source>
+        <translation>Pornește Xecoin imdiat după logarea în sistem</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XeCoin on system login</source>
-        <translation>$Pornește XeCoin la logarea în sistem</translation>
+        <source>&amp;Start Xecoin on system login</source>
+        <translation>$Pornește Xecoin la logarea în sistem</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat portul pentru cientul XeCoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
+        <source>Automatically open the Xecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat portul pentru cientul Xecoin pe router. Aces lucru este posibil doara daca routerul suporta UPnP si este activat</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conecteaza la reteaua XeCoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
+        <source>Connect to the Xecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conecteaza la reteaua Xecoin prinr-un proxy SOCKS(ex. cand te conectezi prin Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XeCoin.</source>
-        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea XeCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Xecoin.</source>
+        <translation>Limba interfeței utilizator poate fi setat aici. Această setare va avea efect după repornirea Xecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XeCoin addresses in the transaction list or not.</source>
-        <translation>Dacă să arate adrese XeCoin din lista de tranzacție sau nu.</translation>
+        <source>Whether to show Xecoin addresses in the transaction list or not.</source>
+        <translation>Dacă să arate adrese Xecoin din lista de tranzacție sau nu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XeCoin.</source>
-        <translation>Aceasta setare va avea efect dupa repornirea XeCoin.</translation>
+        <source>This setting will take effect after restarting Xecoin.</source>
+        <translation>Aceasta setare va avea efect dupa repornirea Xecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XeCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua XeCoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informatia afisata poate fi depasita.  Portofel se sincronizează automat cu rețeaua Xecoin după ce se stabilește o conexiune, dar acest proces nu s-a finalizat încă.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XeCoin-Qt help message to get a list with possible XeCoin command-line options.</source>
-        <translation>Afișa mesajul de ajutor XeCoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă XeCoin.</translation>
+        <source>Show the Xecoin-Qt help message to get a list with possible Xecoin command-line options.</source>
+        <translation>Afișa mesajul de ajutor Xecoin-Qt pentru a obține o listă cu posibile opțiuni de linie de comandă Xecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>XeCoin - Debug window</source>
-        <translation>XeCoin - fereastră depanare</translation>
+        <source>Xecoin - Debug window</source>
+        <translation>Xecoin - fereastră depanare</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XeCoin Core</source>
-        <translation>XeCoin Core</translation>
+        <source>Xecoin Core</source>
+        <translation>Xecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Deschideti fisierul de depanare XeCoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
+        <source>Open the Xecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Deschideti fisierul de depanare Xecoin din folderul curent. Acest lucru poate dura cateva secunde pentru fisiere de log mari.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the XeCoin RPC console.</source>
-        <translation>Bine ati venit la consola XeCoin RPC.</translation>
+        <source>Welcome to the Xecoin RPC console.</source>
+        <translation>Bine ati venit la consola Xecoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă XeCoin(ex:XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Xecoin(ex:XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid XeCoin address</source>
-        <translation>Atenție: Adresă XeCoin invalidă</translation>
+        <source>WARNING: Invalid Xecoin address</source>
+        <translation>Atenție: Adresă Xecoin invalidă</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1910,8 +1910,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa catre care trimiteti plata(ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa catre care trimiteti plata(ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1940,8 +1940,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă XeCoin(ex:XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Xecoin(ex:XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1964,8 +1964,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care semnati mesajul(ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care semnati mesajul(ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2001,8 +2001,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XeCoin address</source>
-        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă XeCoin</translation>
+        <source>Sign the message to prove you own this Xecoin address</source>
+        <translation>Semnează un mesaj pentru a dovedi că dețineti o adresă Xecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2028,13 +2028,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Adresa cu care a fost semnat mesajul(ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Adresa cu care a fost semnat mesajul(ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XeCoin address</source>
-        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă XeCoin</translation>
+        <source>Verify the message to ensure it was signed with the specified Xecoin address</source>
+        <translation>Verifică un mesaj pentru a vă asigura că a fost semnat cu o anumită adresă Xecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduceți o adresă XeCoin(ex:XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduceți o adresă Xecoin(ex:XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XeCoin signature</source>
-        <translation>Introduceti semnatura XeCoin</translation>
+        <source>Enter Xecoin signature</source>
+        <translation>Introduceti semnatura Xecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>XeCoin version</source>
-        <translation>Versiune XeCoin</translation>
+        <source>Xecoin version</source>
+        <translation>Versiune Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or XeCoind</source>
-        <translation>Trimite comanda catre server sau XeCoind</translation>
+        <source>Send command to -server or Xecoind</source>
+        <translation>Trimite comanda catre server sau Xecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: XeCoin.conf)</source>
-        <translation>Specifica fisier de configurare(implicit: XeCoin.conf)</translation>
+        <source>Specify configuration file (default: Xecoin.conf)</source>
+        <translation>Specifica fisier de configurare(implicit: Xecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: XeCoind.pid)</source>
-        <translation>Speficica fisier pid(implicit: XeCoin.pid)</translation>
+        <source>Specify pid file (default: Xecoind.pid)</source>
+        <translation>Speficica fisier pid(implicit: Xecoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XeCoin will not work properly.</source>
-        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit XeCoin nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xecoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati ca timpul si data calculatorului sunt corete. Daca timpul este gresit Xecoin nu va functiona corect.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,22 +3000,22 @@ Acest lucru înseamnă că o taxă de cel puțin %2 este necesară</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=XeCoinrpc
+rpcuser=Xecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, trebuie să configurați o parolă rpc în fișierul de configurare: %s
-Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=XeCoinrpc
+Este recomandat să folosiți următoarea parolă generată aleator: rpcuser=Xecoinrpc
 rpcpassword=%s
 (nu trebuie să țineți minte această parolă)
 Username-ul și parola NU TREBUIE să fie aceleași.
 Dacă fișierul nu există, creați-l cu drepturi de citire doar de către deținător.
 Este deasemenea recomandat să setați alertnotify pentru a fi notificat de probleme;
-de exemplu: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+de exemplu: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3140,13 +3140,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  XeCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Xecoin is probably already running.</source>
         <translation>Nu se poate obtine un lock pe directorul de date &amp;s. Blackoin probabil ruleaza deja.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XeCoin</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de XeCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Xecoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul necesita o versiune mai noua de Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart XeCoin to complete</source>
-        <translation>A fost nevoie de rescrierea portofelului: restartați XeCoin pentru a finaliza</translation>
+        <source>Wallet needed to be rewritten: restart Xecoin to complete</source>
+        <translation>A fost nevoie de rescrierea portofelului: restartați Xecoin pentru a finaliza</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ de exemplu: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. XeCoin is probably already running.</source>
-        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil XeCoin ruleaza</translation>
+        <source>Unable to bind to %s on this computer. Xecoin is probably already running.</source>
+        <translation>Imposibil de conectat %s pe acest computer. Cel mai probabil Xecoin ruleaza</translation>
     </message>
     <message>
         <location line="-97"/>

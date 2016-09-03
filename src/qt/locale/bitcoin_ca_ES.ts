@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XeCoin</source>
-        <translation>Sobre XeCoin</translation>
+        <source>About Xecoin</source>
+        <translation>Sobre Xecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XeCoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;XeCoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Xecoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;Xecoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</source>
+Copyright © 2014 The Xecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</translation>
+Copyright © 2014 The Xecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your XeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de XeCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your Xecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de Xecoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XeCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça XeCoin</translation>
+        <source>Sign a message to prove you own a Xecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Xecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified XeCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça XeCoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified Xecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Xecoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>XeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>XeCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>Xecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Xecoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about XeCoin</source>
-        <translation>Mostra informació sobre XeCoin</translation>
+        <source>Show information about Xecoin</source>
+        <translation>Mostra informació sobre Xecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a XeCoin address</source>
-        <translation>Enviar monedes a una adreça XeCoin</translation>
+        <source>Send coins to a Xecoin address</source>
+        <translation>Enviar monedes a una adreça Xecoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for XeCoin</source>
-        <translation>Modificar les opcions de configuració per a XeCoin</translation>
+        <source>Modify configuration options for Xecoin</source>
+        <translation>Modificar les opcions de configuració per a Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About XeCoin</source>
-        <translation>&amp;Sobre XeCoin</translation>
+        <source>&amp;About Xecoin</source>
+        <translation>&amp;Sobre Xecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>XeCoin client</source>
-        <translation>Client XeCoin</translation>
+        <source>Xecoin client</source>
+        <translation>Client Xecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to XeCoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa XeCoin</numerusform><numerusform>%n conexions actives a la xarxa XeCoin</numerusform></translation>
+        <source>%n active connection(s) to Xecoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa Xecoin</numerusform><numerusform>%n conexions actives a la xarxa Xecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About XeCoin card</source>
-        <translation>Sobre la tarjeta XeCoin</translation>
+        <source>About Xecoin card</source>
+        <translation>Sobre la tarjeta Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about XeCoin card</source>
-        <translation>Mostra informació sobre la tarjeta XeCoin</translation>
+        <source>Show information about Xecoin card</source>
+        <translation>Mostra informació sobre la tarjeta Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid XeCoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça XeCoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Xecoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Xecoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. XeCoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. XeCoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. Xecoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. Xecoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XeCoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça XeCoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Xecoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Xecoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>XeCoin-Qt</source>
-        <translation>XeCoin-Qt</translation>
+        <source>Xecoin-Qt</source>
+        <translation>Xecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XeCoin after logging in to the system.</source>
-        <translation>Inicia automàticament XeCoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start Xecoin after logging in to the system.</source>
+        <translation>Inicia automàticament Xecoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XeCoin on system login</source>
-        <translation>&amp;Iniciar XeCoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start Xecoin on system login</source>
+        <translation>&amp;Iniciar Xecoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client XeCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the Xecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client Xecoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa XeCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the Xecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa Xecoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XeCoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar XeCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Xecoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Xecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XeCoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar XeCoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show Xecoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar Xecoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XeCoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar XeCoin.</translation>
+        <source>This setting will take effect after restarting Xecoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Xecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XeCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa XeCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa Xecoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XeCoin-Qt help message to get a list with possible XeCoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de XeCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres XeCoin.</translation>
+        <source>Show the Xecoin-Qt help message to get a list with possible Xecoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de Xecoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Xecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>XeCoin - Debug window</source>
-        <translation>XeCoin - Finestra Depuració</translation>
+        <source>Xecoin - Debug window</source>
+        <translation>Xecoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XeCoin Core</source>
-        <translation>Nucli XeCoin</translation>
+        <source>Xecoin Core</source>
+        <translation>Nucli Xecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració XeCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the Xecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració Xecoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the XeCoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de XeCoin.</translation>
+        <source>Welcome to the Xecoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de Xecoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça XeCoin (p.ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Xecoin (p.ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid XeCoin address</source>
-        <translation>ADVERTÈNCIA: Direcció XeCoin invàlida</translation>
+        <source>WARNING: Invalid Xecoin address</source>
+        <translation>ADVERTÈNCIA: Direcció Xecoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1901,8 +1901,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>L&apos;adreça per a enviar el pagament (per exemple: XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adreça per a enviar el pagament (per exemple: XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça XeCoin (p.ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Xecoin (p.ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>L&apos;adreça per a signar el missatge (per exemple XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>L&apos;adreça per a signar el missatge (per exemple XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XeCoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça XeCoin</translation>
+        <source>Sign the message to prove you own this Xecoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Xecoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,13 +2019,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La direcció que va ser signada amb un missatge (per exemple XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La direcció que va ser signada amb un missatge (per exemple XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XeCoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça XeCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Xecoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Xecoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introdueix una adreça XeCoin (p.ex. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introdueix una adreça Xecoin (p.ex. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XeCoin signature</source>
-        <translation>Introduïu la signatura XeCoin</translation>
+        <source>Enter Xecoin signature</source>
+        <translation>Introduïu la signatura Xecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>XeCoin version</source>
-        <translation>versió XeCoin</translation>
+        <source>Xecoin version</source>
+        <translation>versió Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or XeCoind</source>
-        <translation>Enviar comandes a -server o XeCoind</translation>
+        <source>Send command to -server or Xecoind</source>
+        <translation>Enviar comandes a -server o Xecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: XeCoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: XeCoin.conf)</translation>
+        <source>Specify configuration file (default: Xecoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: Xecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: XeCoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: XeCoind.pid)</translation>
+        <source>Specify pid file (default: Xecoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: Xecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XeCoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni XeCoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xecoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Xecoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=XeCoinrpc
+rpcuser=Xecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=XeCoinrpc
+rpcuser=Xecoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  XeCoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. XeCoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Xecoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. Xecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XeCoin</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de XeCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Xecoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart XeCoin to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar XeCoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart Xecoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar Xecoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. XeCoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. XeCoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. Xecoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. Xecoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

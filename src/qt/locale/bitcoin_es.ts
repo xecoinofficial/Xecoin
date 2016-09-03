@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About XeCoin</source>
-        <translation>Acerca de XeCoin</translation>
+        <source>About Xecoin</source>
+        <translation>Acerca de Xecoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;XeCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;XeCoin&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;Xecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Xecoin&lt;/b&gt; versión</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</source>
+Copyright © 2014 The Xecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The XeCoin developers</translation>
+Copyright © 2014 The Xecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -68,8 +68,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your XeCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Estas son las direcciones de XeCoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
+        <source>These are your Xecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Estas son las direcciones de Xecoin para recibir pagos. Es posible que desee dar una diferente a cada remitente para que pueda realizar un seguimiento de quien te está pagando.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -83,8 +83,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a XeCoin address</source>
-        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de XeCoin</translation>
+        <source>Sign a message to prove you own a Xecoin address</source>
+        <translation>Firmar un mensaje para demostrar que es dueño de su dirección de Xecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -98,8 +98,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified XeCoin address</source>
-        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de XeCoin</translation>
+        <source>Verify a message to ensure it was signed with a specified Xecoin address</source>
+        <translation>Verifique el mensaje para asegurarse que fue firmado por una dirección específica de Xecoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -266,8 +266,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-58"/>
-        <source>XeCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>XeCoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
+        <source>Xecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Xecoin cerrará para terminar el proceso de encriptación. Recuerde que la encriptación de su monedero no puede proteger completamente que sus monedas sean robadas por malware infectando su computadora.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -380,8 +380,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about XeCoin</source>
-        <translation>Mostrar información sobre XeCoin</translation>
+        <source>Show information about Xecoin</source>
+        <translation>Mostrar información sobre Xecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -430,13 +430,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a XeCoin address</source>
-        <translation>Enviar monedas a una dirección de XeCoin</translation>
+        <source>Send coins to a Xecoin address</source>
+        <translation>Enviar monedas a una dirección de Xecoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for XeCoin</source>
-        <translation>Modificar las opciones de configuración para XeCoin</translation>
+        <source>Modify configuration options for Xecoin</source>
+        <translation>Modificar las opciones de configuración para Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -475,8 +475,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-202"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -485,8 +485,8 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About XeCoin</source>
-        <translation>Acerca de XeCoin</translation>
+        <source>&amp;About Xecoin</source>
+        <translation>Acerca de Xecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -542,13 +542,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>XeCoin client</source>
-        <translation>Cliente XeCoin</translation>
+        <source>Xecoin client</source>
+        <translation>Cliente Xecoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to XeCoin network</source>
-        <translation><numerusform>%n conexión activa a la red XeCoin</numerusform><numerusform>%n conexiones activas a la red XeCoin</numerusform></translation>
+        <source>%n active connection(s) to Xecoin network</source>
+        <translation><numerusform>%n conexión activa a la red Xecoin</numerusform><numerusform>%n conexiones activas a la red Xecoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -587,13 +587,13 @@ Eric Young (eay@cryptsoft.com) y el software UPnP escrito por Thomas Bernard.</t
     </message>
     <message>
         <location line="-312"/>
-        <source>About XeCoin card</source>
-        <translation>Sobre la tarjeta XeCoin</translation>
+        <source>About Xecoin card</source>
+        <translation>Sobre la tarjeta Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about XeCoin card</source>
-        <translation>Mostrar información sobre la tarjeta XeCoin</translation>
+        <source>Show information about Xecoin card</source>
+        <translation>Mostrar información sobre la tarjeta Xecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -672,8 +672,8 @@ Dirección: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid XeCoin address or malformed URI parameters.</source>
-        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de XeCoin no válida o parámetros de URI malformados.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Xecoin address or malformed URI parameters.</source>
+        <translation>URI no se puede analizar! Esto puede ser causado por una dirección de Xecoin no válida o parámetros de URI malformados.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -732,8 +732,8 @@ Dirección: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. XeCoin can no longer continue safely and will quit.</source>
-        <translation>Se ha producido un error fatal. XeCoin ya no puede continuar de forma segura y cerrará.</translation>
+        <source>A fatal error occurred. Xecoin can no longer continue safely and will quit.</source>
+        <translation>Se ha producido un error fatal. Xecoin ya no puede continuar de forma segura y cerrará.</translation>
     </message>
 </context>
 <context>
@@ -1066,8 +1066,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid XeCoin address.</source>
-        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de XeCoin.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Xecoin address.</source>
+        <translation>La dirección introducida &quot;%1&quot; no es una dirección válida de Xecoin.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1085,8 +1085,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>XeCoin-Qt</source>
-        <translation>XeCoin-Qt</translation>
+        <source>Xecoin-Qt</source>
+        <translation>Xecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1158,13 +1158,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start XeCoin after logging in to the system.</source>
-        <translation>Iniciar XeCoin automáticamente después de entrar en el sistema.</translation>
+        <source>Automatically start Xecoin after logging in to the system.</source>
+        <translation>Iniciar Xecoin automáticamente después de entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start XeCoin on system login</source>
-        <translation>&amp;Iniciar XeCoin al inicio del sistema</translation>
+        <source>&amp;Start Xecoin on system login</source>
+        <translation>&amp;Iniciar Xecoin al inicio del sistema</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1183,8 +1183,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the XeCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automáticamente el puerto de cliente XeCoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Xecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automáticamente el puerto de cliente Xecoin en el router. Esto sólo funciona cuando el router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1193,8 +1193,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the XeCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Conéctese a la red de XeCoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
+        <source>Connect to the Xecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Conéctese a la red de Xecoin a través de un SOCKS proxy (e.g. cuando se conecta a través de Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1268,8 +1268,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting XeCoin.</source>
-        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar XeCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Xecoin.</source>
+        <translation>El idioma del interfaz de usuario se puede configurar aquí. Esta configuración se aplicará después de reiniciar Xecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1283,8 +1283,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show XeCoin addresses in the transaction list or not.</source>
-        <translation>Tanto para mostrar direcciones de XeCoin en la lista de transacciones o no.</translation>
+        <source>Whether to show Xecoin addresses in the transaction list or not.</source>
+        <translation>Tanto para mostrar direcciones de Xecoin en la lista de transacciones o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1330,8 +1330,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting XeCoin.</source>
-        <translation>Esta configuración se aplicará después de reiniciar XeCoin.</translation>
+        <source>This setting will take effect after restarting Xecoin.</source>
+        <translation>Esta configuración se aplicará después de reiniciar Xecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1349,8 +1349,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the XeCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red XeCoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Xecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La información mostrada puede estar fuera de fecha. Su monedera se sincroniza automáticamente con la red Xecoin después de que se establece una conexión, pero este proceso no se ha completado todavía.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1565,8 +1565,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the XeCoin-Qt help message to get a list with possible XeCoin command-line options.</source>
-        <translation>Mostrar el mensaje de ayuda de XeCoin-Qt para obtener una lista con las posibles opciones de línea de comandos para XeCoin.</translation>
+        <source>Show the Xecoin-Qt help message to get a list with possible Xecoin command-line options.</source>
+        <translation>Mostrar el mensaje de ayuda de Xecoin-Qt para obtener una lista con las posibles opciones de línea de comandos para Xecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1585,13 +1585,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>XeCoin - Debug window</source>
-        <translation>XeCoin - Ventana de depuración</translation>
+        <source>Xecoin - Debug window</source>
+        <translation>Xecoin - Ventana de depuración</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>XeCoin Core</source>
-        <translation>Núcleo XeCoin</translation>
+        <source>Xecoin Core</source>
+        <translation>Núcleo Xecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1600,8 +1600,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the XeCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abre el archivo de registro de XeCoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
+        <source>Open the Xecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abre el archivo de registro de Xecoin del directorio de datos actual. Esto puede tardar algunos segundos para archivos grandes.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1610,8 +1610,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the XeCoin RPC console.</source>
-        <translation>Bienvenido a la consola RPC de XeCoin</translation>
+        <source>Welcome to the Xecoin RPC console.</source>
+        <translation>Bienvenido a la consola RPC de Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1769,8 +1769,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección XeCoin (p.ej. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección Xecoin (p.ej. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1869,8 +1869,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid XeCoin address</source>
-        <translation>ADVERTENCIA: Dirección XeCoin inválida</translation>
+        <source>WARNING: Invalid Xecoin address</source>
+        <translation>ADVERTENCIA: Dirección Xecoin inválida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1913,8 +1913,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a la que se quiere enviar el pago (p.ej. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to send the payment to  (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a la que se quiere enviar el pago (p.ej. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1943,8 +1943,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección XeCoin (p.ej. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección Xecoin (p.ej. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
 </context>
 <context>
@@ -1967,8 +1967,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección a firmar con un mensaje (p.ej. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address to sign the message with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección a firmar con un mensaje (p.ej. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -2004,8 +2004,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this XeCoin address</source>
-        <translation>Firma el mensaje para demostrar que posees esta dirección XeCoin.</translation>
+        <source>Sign the message to prove you own this Xecoin address</source>
+        <translation>Firma el mensaje para demostrar que posees esta dirección Xecoin.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2031,13 +2031,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>La dirección firmada con un mensaje (p.ej. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>The address the message was signed with (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>La dirección firmada con un mensaje (p.ej. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified XeCoin address</source>
-        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección XeCoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified Xecoin address</source>
+        <translation>Verifique el mensaje para asegurarse de que se firmó con la dirección Xecoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2047,8 +2047,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a XeCoin address (e.g. XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
-        <translation>Introduce una dirección XeCoin (p.ej XeCoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
+        <source>Enter a Xecoin address (e.g. XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</source>
+        <translation>Introduce una dirección Xecoin (p.ej XecoinfwYhBmGXcFP2Po1NpRUEiK8km2)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2057,8 +2057,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter XeCoin signature</source>
-        <translation>Introduce la firma XeCoin</translation>
+        <source>Enter Xecoin signature</source>
+        <translation>Introduce la firma Xecoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2628,8 +2628,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>XeCoin version</source>
-        <translation>versión XeCoin</translation>
+        <source>Xecoin version</source>
+        <translation>versión Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2638,8 +2638,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or XeCoind</source>
-        <translation>Envía un comando a -server o XeCoind</translation>
+        <source>Send command to -server or Xecoind</source>
+        <translation>Envía un comando a -server o Xecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2661,13 +2661,13 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: XeCoin.conf)</source>
-        <translation>Especifica un archivo de configuración (por defecto: XeCoin.conf)</translation>
+        <source>Specify configuration file (default: Xecoin.conf)</source>
+        <translation>Especifica un archivo de configuración (por defecto: Xecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: XeCoind.pid)</source>
-        <translation>Especifica un archivo pid (por defecto: XeCoind.pid)</translation>
+        <source>Specify pid file (default: Xecoind.pid)</source>
+        <translation>Especifica un archivo pid (por defecto: Xecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2819,8 +2819,8 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong XeCoin will not work properly.</source>
-        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo XeCoin no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Xecoin will not work properly.</source>
+        <translation>Advertencia: Verifique que la fecha y hora del equipo sean correctas! Si su reloj es erróneo Xecoin no funcionará correctamente.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3010,24 +3010,24 @@ Esto significa que se requiere una cuota de al menos %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=XeCoinrpc
+rpcuser=Xecoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, debe establecer un rpcpassword en el fichero de configuración:
 %s
 Se recomienda utilizar la siguiente contraseña aleatoria:
-rpcuser=XeCoinrpc
+rpcuser=Xecoinrpc
 rpcpassword=%s
 (no necesita recordar este password)
 El nombre de usuario y contraseña no debe ser el mismo.
 Si no existe el archivo, créelo con permisos de sólo lectura para el dueño.
 También se recomienda establecer alertnotify para ser notificado de los problemas;
-por ejemplo: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.com
+por ejemplo: alertnotify=echo %%s | mail -s &quot;Xecoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3159,13 +3159,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  XeCoin is probably already running.</source>
-        <translation>No se puede obtener un bloqueo en el directorio de datos %s. XeCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Xecoin is probably already running.</source>
+        <translation>No se puede obtener un bloqueo en el directorio de datos %s. Xecoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>XeCoin</source>
-        <translation>XeCoin</translation>
+        <source>Xecoin</source>
+        <translation>Xecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3199,13 +3199,13 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of XeCoin</source>
-        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de XeCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Xecoin</source>
+        <translation>Error cargando wallet.dat: El monedero requiere una nueva versión de Xecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart XeCoin to complete</source>
-        <translation>El monedero necesita ser reescrito: reinicie XeCoin para completar</translation>
+        <source>Wallet needed to be rewritten: restart Xecoin to complete</source>
+        <translation>El monedero necesita ser reescrito: reinicie Xecoin para completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3274,8 +3274,8 @@ por ejemplo: alertnotify=echo %%s | mail -s &quot;XeCoin Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. XeCoin is probably already running.</source>
-        <translation>No se puede enlazar a %s en este equipo. XeCoin probablemente ya esté en funcionamiento.</translation>
+        <source>Unable to bind to %s on this computer. Xecoin is probably already running.</source>
+        <translation>No se puede enlazar a %s en este equipo. Xecoin probablemente ya esté en funcionamiento.</translation>
     </message>
     <message>
         <location line="-97"/>

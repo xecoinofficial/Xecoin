@@ -6,7 +6,7 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 0.4.4
-!define COMPANY "XeCoin project"
+!define COMPANY "Xecoin project"
 !define URL http://www.xecoin.org/
 
 # MUI Symbol Definitions
@@ -46,13 +46,13 @@ Var StartMenuGroup
 
 # Installer attributes
 OutFile xecoin-0.4.4-win32-setup.exe
-InstallDir $PROGRAMFILES\XeCoin
+InstallDir $PROGRAMFILES\Xecoin
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion 0.3.0.0
-VIAddVersionKey ProductName XeCoin
+VIAddVersionKey ProductName Xecoin
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -87,7 +87,7 @@ Section -post SEC0001
     WriteUninstaller $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall XeCoin.lnk" $INSTDIR\uninstall.exe
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall Xecoin.lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayVersion "${VERSION}"
@@ -100,7 +100,7 @@ Section -post SEC0001
 
     # xecoin: URI handling disabled for 0.6.0
     #    WriteRegStr HKCR "bitcoin" "URL Protocol" ""
-    #    WriteRegStr HKCR "bitcoin" "" "URL:XeCoin"
+    #    WriteRegStr HKCR "bitcoin" "" "URL:Xecoin"
     #    WriteRegStr HKCR "bitcoin\DefaultIcon" "" $INSTDIR\xecoin-qt.exe
     #    WriteRegStr HKCR "bitcoin\shell\open\command" "" '"$INSTDIR\xecoin-qt.exe" "$$1"'
 SectionEnd
@@ -130,9 +130,9 @@ SectionEnd
 
 Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall XeCoin.lnk"
-    #Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\XeCoin.lnk"
-    #Delete /REBOOTOK "$SMSTARTUP\XeCoin.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall Xecoin.lnk"
+    #Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Xecoin.lnk"
+    #Delete /REBOOTOK "$SMSTARTUP\Xecoin.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log
