@@ -1,0 +1,9 @@
+Building XeCoin
+
+See doc/readme-qt.rst for instructions on building XeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of XeCoin.
+
+See doc/build-*.txt for instructions on building XeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of XeCoin.
