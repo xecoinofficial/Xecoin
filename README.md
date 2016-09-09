@@ -5,7 +5,7 @@ Xecoin QT Wallet
 
 http://www.xecoin.org
 
-https://bitcointalk.org/index.php?topic=1129322.0
+https://bitcointalk.org/
 
 Copyright (c) 2015 Xecoin Developers
 
