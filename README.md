@@ -25,7 +25,8 @@ out collectively by the network. Xecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Xecoin Core software, see http://www.xecoin.org/
+the Xecoin Core software, see http://www.xecoin.info/
+Or http://xecoin.net/
 
 License
 -------
