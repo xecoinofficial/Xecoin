@@ -3,7 +3,7 @@ Xecoin integration/staging tree
 
 Xecoin QT Wallet
 
-http://www.xecoin.org
+http://www.xecoin.info/
 
 https://bitcointalk.org/
 
@@ -26,7 +26,7 @@ software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
 the Xecoin Core software, see http://www.xecoin.info/
-Or http://xecoin.net/
+Or http://www.xecoin.net/
 
 License
 -------
